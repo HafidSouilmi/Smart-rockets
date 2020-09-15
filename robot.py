@@ -26,7 +26,7 @@ class robot:
         self.pos=vecteur(w/2-20,h-80)
         self.vel=vecteur()
         self.acc=vecteur()
-        self.img=pygame.image.load('C://Users//Ilias//TIPE//rocket.png')
+        self.img=pygame.image.load('rocket.png')
         self.DNA=DNA()
         self.fitness=0
         self.succes=False
