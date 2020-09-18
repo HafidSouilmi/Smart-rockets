@@ -4,5 +4,10 @@ A simple genetic algorithm demo where a population of moving objects try to reac
 
 ![](pictures/screenshot.png)
 
+# How it works :
+
+- Set model parameters (mutation rate, lifespan, obstacle parameters...) in params.py
+
+- Launch main.py
 
 inspired by : http://www.blprnt.com/smartrockets/
