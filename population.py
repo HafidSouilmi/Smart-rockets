@@ -1,7 +1,7 @@
 from params import *
 from robot import *
 
-class population:
+class population: 
 
     def __init__(self,n):
         self.robots=[]
